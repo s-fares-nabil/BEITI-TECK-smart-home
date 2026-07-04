@@ -12,6 +12,12 @@ ESP32-based AI smart home system with face recognition, IoT monitoring, and safe
 - **Safety Alerts** — Buzzer triggers on gas leak or fire
 - **ESP-NOW** — Wireless communication between camera and main ESP32 units
 
+## Gallery
+
+|<img src="assets/images/system_architecture.jpg" width="250"/>|<img src="assets/images/wiring_diagram.jpg" width="250"/>|<img src="assets/images/circuit_diagram.jpg" width="250"/>|
+|:-:|:-:|:-:|
+| System Architecture | Wiring Diagram | Circuit Diagram |
+
 ## Hardware
 
 | Component | Role |
