@@ -1,5 +1,7 @@
 # BEITI TECK AI Smart Home
 
+<img src="assets/images/house architecture.jpg" width="700"/>
+
 ESP32-based AI smart home system with face recognition, IoT monitoring, and safety alerts.
 
 ## Features
@@ -11,12 +13,6 @@ ESP32-based AI smart home system with face recognition, IoT monitoring, and safe
 - **Auto Fan Control** — Temperature-based fan speed (auto/manual modes)
 - **Safety Alerts** — Buzzer triggers on gas leak or fire
 - **ESP-NOW** — Wireless communication between camera and main ESP32 units
-
-## Gallery
-
-| House Architecture | Prototype / Solution |
-|:-:|:-:|
-| <img src="assets/images/house_architecture.jpg" width="300"/> | <img src="assets/images/prototype_diagram.jpg" width="300"/> |
 
 ## Hardware
 
